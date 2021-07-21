@@ -2,6 +2,9 @@
 title: 'Job opening: Liquid Galaxy support engineer'
 author: Benjamin Goldstein
 github_issue_number: 1755
+featured:
+  visionport: true
+  image_url: /blog/2021/06/job-liquid-galaxy-support-engineer/lg-cabinet.jpg
 tags:
 - company
 - jobs

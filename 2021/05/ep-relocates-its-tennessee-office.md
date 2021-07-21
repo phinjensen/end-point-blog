@@ -2,6 +2,9 @@
 title: End Point Relocates Its Tennessee Office
 author: Cody Ressler
 github_issue_number: 1742
+featured:
+  visionport: true
+  image_url: /blog/2021/05/ep-relocates-its-tennessee-office/image-0.jpg
 tags:
 - company
 - liquid-galaxy
