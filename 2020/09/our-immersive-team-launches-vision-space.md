@@ -2,9 +2,6 @@
 author: Ben Witten
 title: Our Immersive Technology Team Launches Vision.Space
 github_issue_number: 1658
-featured:
-  visionport: true
-  image_url: /blog/2020/09/our-immersive-team-launches-vision-space/image-0.jpg
 tags:
 - liquid-galaxy
 date: 2020-09-04
